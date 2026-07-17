@@ -214,7 +214,7 @@ patrixx@recon:~$ cat /var/log/exploits.log
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Prateek-squadron&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff0040&text_color=c9d1d9&ring_color=00ff41" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prateek-squadron&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0040&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=555555" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Prateek-squadron&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF0040&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=555555" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-squadron&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="40%" />
 
@@ -249,7 +249,7 @@ patrixx@recon:~$ cat /var/log/exploits.log
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateek-squadron&theme=redical&hide_border=true&bg_color=0d1117&color=00ff41&line=ff0040&point=00ff41&area=true&area_color=ff004020)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateek-squadron&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=ff0040&point=00ff41&area=true&area_color=1a0a2e)
 
 </div>
 
