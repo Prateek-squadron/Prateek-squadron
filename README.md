@@ -3,7 +3,7 @@
 # Prateek Sharma
 **Cybersecurity & Digital Forensics**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prateek--squadron.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prateek-squadron.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://prateek-portfolio-shell.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-sharma-cyber/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ps.prateek1709@gmail.com)
 
