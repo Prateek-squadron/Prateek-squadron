@@ -25,16 +25,16 @@ I am a Cybersecurity and Digital Forensics undergraduate (B.Tech, 2nd Year) at V
 ### 🛠️ Technical Arsenal
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+<img src="./icons/python.svg" title="Python" width="40" /> <img src="./icons/cpp.svg" title="C++" width="40" /> <img src="./icons/bash.svg" title="Bash" width="40" /> <img src="./icons/js.svg" title="JavaScript" width="40" /> <img src="./icons/sql.svg" title="SQL" width="40" /> <img src="./icons/lua.svg" title="Lua" width="40" />
 
 **Offensive Security**  
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+<img src="./icons/nmap.svg" title="Nmap" width="40" /> <img src="./icons/burp.svg" title="Burp Suite" width="40" /> <img src="./icons/wireshark.svg" title="Wireshark" width="40" />
 
 **Digital Forensics & SOC**  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-333333?style=flat-square&logoColor=white)
+<img src="./icons/splunk.svg" title="Splunk" width="40" /> <img src="./icons/volatility.svg" title="Volatility" width="40" />
 
 **Infrastructure & Cloud**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square&logo=tailscale&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+<img src="./icons/linux.svg" title="Linux" width="40" /> <img src="./icons/docker.svg" title="Docker" width="40" /> <img src="./icons/azure.svg" title="Azure" width="40" /> <img src="./icons/tailscale.svg" title="Tailscale" width="40" /> <img src="./icons/vmware.svg" title="VMware" width="40" />
 
 ---
 
